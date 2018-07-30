@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,vow",
+    "logging_enabled": "false",
+    "name": "vowSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "vowSmokeTest.js"
+}
